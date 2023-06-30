@@ -203,6 +203,6 @@ Sorted Task List Table
 | 5775875000000545582 | Send Project Invoice | Not Started | 2023-07-22 |
 
 
-By following the steps outlined above, you can effectively sort any list of JSON Maps by a specific field. This is really useful especially when you are building custom related lists or reordering subform records. Happy sorting!
+By following the steps outlined above, you can effectively sort any list of JSON Maps by a specific field. This is really useful especially when you are [building custom related lists](https://github.com/squarelabsgit/zoho-crm-custom-related-lists) or reordering subform records. Happy sorting!
 
 Need Help? [Contact Us!](https://www.squarelabs.com.au/contact-us)
